@@ -4,4 +4,4 @@ Appointments,
 Doctors,
 Prescriptions
 #List patients
-#find appointmnets related to doctors
+#find no of appointmnets related to doctors
