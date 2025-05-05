@@ -1,8 +1,8 @@
 
 INSERT INTO Patients (Name, Age, Gender, ContactNumber, Address)
 VALUES
-('John Doe', 30, 'Male', '1234567890', '123 Main St'),
-('Jane Smith', 25, 'Female', '9876543210', '456 Elm St');
+('Doe', 30, 'Male', '1234567890', '123 M St'),
+('Smith', 25, 'Female', '9676543210', '456 E St');
 
 INSERT INTO Doctors (Name, Specialization, ContactNumber)
 VALUES
